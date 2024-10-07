@@ -1,1 +1,3 @@
-# repo_practicas
+Luca
+Galli
+Division 311
